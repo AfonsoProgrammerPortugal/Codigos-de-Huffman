@@ -11,7 +11,7 @@ codificação pode ser descodificada, obtendo-se exactamente a sequência de sí
 original.
 
 # Objetivo Principal
-- processamento de árvores binárias — construção e travessia 
+- Processamento de árvores binárias — construção e travessia 
 
 # Objetivos Secundários
 - Uso de filas com prioridade
